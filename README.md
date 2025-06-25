@@ -70,10 +70,10 @@ Test the model directly on Colab using the following notebooks:
 
 Model weights are stored externally due to GitHub file size limits:
 
-| Model        | File           | Download Link      |
-|--------------|----------------|--------------------|
-| YOLOv11      | `best.pt`      | [Google Drive]()   |
-| Faster R-CNN | `epoch_15.pth` | [Google Drive]()   |
+| Model        | File           | Download Link                                                                 |
+|--------------|----------------|--------------------------------------------------------------------------------|
+| YOLOv11      | `best.pt`      | [Download from Google Drive](https://drive.google.com/file/d/1889jOlpJBCfGdjZQKQoBlbYGHNuZjGKf/view?usp=share_link) |
+| Faster R-CNN | `epoch_15.pth` | [Download from Google Drive](https://drive.google.com/file/d/1OuJP42G18haHwNE_8afz5C076utZrCPr/view?usp=share_link) |
 
 > After downloading, place the model files into a `models/` folder at the root of the project:
 ```bash
