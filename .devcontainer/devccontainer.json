@@ -1,0 +1,13 @@
+{
+    "name": "mmdet-dev",
+    "build": {
+        "dockerfile": "Dockerfile"   // Dockerfile proje kökünde ise
+    },
+    "workspaceFolder": "/workspace",
+    "settings": {},
+    "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+    ],
+    "postCreateCommand": "pip install -r requirements.txt || true"
+}
